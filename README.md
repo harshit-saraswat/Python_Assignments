@@ -1,7 +1,7 @@
 # Python_Assignments
 Assignments for Python course
 
-This repository contains all the assignments for DL_CV_NLP course.
+This repository contains all the assignments for Python Community course.
 
 ## Table of Contents
 1. [Python](https://github.com/harshit-saraswat/Python_Assignments/tree/master/Python)
